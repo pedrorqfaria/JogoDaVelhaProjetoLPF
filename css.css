@@ -10,7 +10,7 @@
   transition: 0.2s background-color;
 }
 
-#cabeÃ§a {
+#cabeça {
   display: flex;
   flex-direction: column;
   background-image: linear-gradient(rgb(11, 133, 102), rgb(3, 151, 114));
