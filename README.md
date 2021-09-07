@@ -3,7 +3,7 @@ Jogo da velha feito pelos alunos João Pedro Kern Guterres Santos e Pedro Ribeir
 
 Jogue com um amigo na mesma tela, e assim que a partida acabar, a página será recarregada e o tabuleiro do jogo será limpo.
 
-## Iinicializar
+## Inicializar
 Você pode acessar o projeto através do seguinte [link](https://pedrorqfaria.github.io/), ou seguindo os seguintes passos:
 
 :one: Acesse o projeto no [GitPod]()
