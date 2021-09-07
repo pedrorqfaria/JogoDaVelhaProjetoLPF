@@ -4,11 +4,11 @@ Jogo da velha feito pelos alunos João Pedro Kern Guterres Santos e Pedro Ribeir
 Jogue com um amigo na mesma tela, e assim que a partida acabar, a página será recarregada e o tabuleiro do jogo será limpo.
 
 ## Inicializar
-Esse [link](https://pedrorqfaria.github.io/) lhe levará para a versão final do site, rodando no github.
+Esse [link](https://pedrorqfaria.github.io/) lhe levará para a versão final do site, hospedado no github.
 
 Se quiser ver os códigos por trás do site, faça da seguinte maneira:
 
-:one: Acesse o projeto no [GitPod]()
+:one: Acesse o projeto no [GitPod](https://gitpod.io#snapshot/72f5209c-7d24-4014-a520-12c7b6565900)
 
 :two: No terminal do gitpod, instale o SDK do Kotlin no gitpod colocando o seguinte texto na linha de comando:
 ```bash
