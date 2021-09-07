@@ -9,11 +9,8 @@ Você pode acessar o projeto através do seguinte [link](https://pedrorqfaria.gi
 :one: Acesse o projeto no [GitPod]()
 
 :two: No terminal do editor de texto, instale o [SDK](https://kotlinlang.org/docs/command-line.html) do Kotlin no GitPod.
-```bash
 sdk install kotlin
-```
+
 
 :three: Por fim, execute o servidor em qualquer porta disponível, e torne-a pública.
-```bash
 php -S 0.0.0.0:8888
-```
