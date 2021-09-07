@@ -17,25 +17,3 @@ sdk install kotlin
 ```bash
 php -S 0.0.0.0:8888
 ```
-
-# Desenvolvedores
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://https://github.com/JoaoKern">
-        <img src="images/students/rafael-marinho.jpg" width="100px;"/><br>
-        <sub>
-          <b>João Kern</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://https://github.com/pedrorqfaria">
-        <img src="images/students/vinicius-martins.jpg" width="100px;"/><br>
-        <sub>
-          <b>Pedro Ribeiro</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
