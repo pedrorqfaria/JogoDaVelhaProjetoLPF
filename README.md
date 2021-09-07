@@ -18,7 +18,8 @@ sdk install kotlin
 ```bash
 php -S 0.0.0.0:8888
 ```
-:four: Após isso, no canto inferior direito da tela, clique onde está escrito Ports. 
+:four: Após isso, no canto inferior direito da tela, clique onde está escrito Ports.
+
 Depois, ao passar o mouse sobre a porta disponível, clique no cadeado para torná-la pública e depois no símbolo de mundo para abrir o site no navegador.
 
 Caso alguma alteração seja feita no kotlin, o código deverá ser compilado. Para isso, coloque na linha de comando, no terminal do gitpod, o seguinte comando:
